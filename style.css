@@ -1,0 +1,12 @@
+#site-header {
+    min-height: 40vh;
+    background-image: url('img/code-light.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
